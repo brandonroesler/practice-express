@@ -1,0 +1,23 @@
+{
+  "name": "practice-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonroesler/practice-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonroesler/practice-express/issues"
+  },
+  "homepage": "https://github.com/brandonroesler/practice-express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
